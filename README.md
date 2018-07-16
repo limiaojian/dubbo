@@ -1,2 +1,2 @@
 # dubbo
-dubbo project
+dubbo分布式项目
